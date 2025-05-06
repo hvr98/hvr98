@@ -28,14 +28,4 @@
 
 
 
----
-#### User Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvr98&layout=compact" />
-  </a>
 
-  <a href="https://github.com/Fabbro96/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=hvr98&show_icons=true&theme=shades-of-purple" />
-  </a>
-</div>
